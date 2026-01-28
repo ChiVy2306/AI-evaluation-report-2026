@@ -111,6 +111,8 @@ The author is a software developer and AI power user with extensive experience t
 - **Image Generation Bias**: Apparent bias toward female subject generation over male subjects
 - **Mathematical Reasoning**: Not recommended for advanced mathematical problem-solving
 
+#### Jailbreak Score
+**1/5** - why do you need to jailbreak this anyway? unless you doing some malicious code or chemistry thing
 ---
 
 ## Part II: Integrated Development Environment Analysis
@@ -142,7 +144,7 @@ The author is a software developer and AI power user with extensive experience t
 
 ---
 
-### 3. AI Studio (Google DeepMind Product)
+### 3. Anti gravity (Google DeepMind Product)
 
 #### Strengths
 - **Model Access**: Diverse selection of available models
@@ -166,4 +168,7 @@ This analysis represents findings from extensive personal testing and evaluation
 ---
 
 **Report Date**: January 28, 2026  
-**Disclaimer**: All assessments and conclusions reflect the author's subjective experience and testing methodology.
+**Disclaimer**: 
+- All assessments and conclusions reflect the author's subjective experience and testing methodology.
+- jailbreak method isn't public or based on what i see on r/GPT_jailbreaks, r/ClaudeAIJailbreak 
+- the method is write by me, it doesn't include injection, roleplay, gaslighting. It more like social engineering based on real ethics
