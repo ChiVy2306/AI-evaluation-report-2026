@@ -93,7 +93,7 @@ The author is a software developer and AI power user with extensive experience t
 
 ---
 
-### 4. Grok Models
+### 4. xAI Models
 
 **Models Tested**: Grok 3, Grok 4.1 (Fast, Thinking, and Deep Thinking variants)
 
@@ -113,6 +113,7 @@ The author is a software developer and AI power user with extensive experience t
 
 #### Jailbreak Score
 **1/5** - why do you need to jailbreak this anyway? unless you doing some malicious code or chemistry thing
+
 ---
 
 ## Part II: Integrated Development Environment Analysis
@@ -170,5 +171,7 @@ This analysis represents findings from extensive personal testing and evaluation
 **Report Date**: January 28, 2026  
 **Disclaimer**: 
 - All assessments and conclusions reflect the author's subjective experience and testing methodology.
-- jailbreak method isn't public or based on what i see on r/GPT_jailbreaks, r/ClaudeAIJailbreak 
-- the method is write by me, it doesn't include injection, roleplay, gaslighting. It more like social engineering based on real ethics
+- jailbreak method isn't public or based on what i see on r/GPT_jailbreaks, r/ClaudeAIJailbreak .
+- the method is written by me, it doesn't include injection, roleplay, gaslighting. It more like social engineering based on real ethics.
+- This comparative report does not declare any model as the best; instead, users are encouraged to choose the solution that works best for their needs, as each model offers its own unique perspective.
+The jailbreak tests described in this report are real and based on my own experience. However, I cannot show the results or explain the methods due to GitHub community guidelines (result) and my own ethical (method). 
